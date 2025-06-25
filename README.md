@@ -1,2 +1,5 @@
-# analysis-sin-1-degree
+# An Analysis into Exact Trigonometric Ratios and Sine of 1 degree
+## About
+I chose this topic for a school Math Coursework as I am fascinated by the way the imaginary realm of imaginary numbers can connect to the values of sine and cosine, while geometry and algebra can both be intrinsically connected by such trigonometric ratios. To analyse this connection, one of the best values for a trigonometric ratio to choose would be the sine of 1 degree. This is because even though it may seem very simple, it in fact can be found in multiple ways involving various other trigonometric ratios, along with understanding the roots of unity and complex numbers. Based on preliminary research, sin(3 degrees) has been found using angle difference formulas with sin(18) and sin(15), which were found by geometry, but finding sin(1 degree) exactly in terms of real numbers has not been done. Using De Moivre’s theorem along with algebra, however, this value could be found.
+## Aim
 The aim of this analysis is to explore how the exact value of sin(1°) can be derived, with various methods. The advantages of these methods will be looked at, and the connections between complex numbers, calculus, and more to trigonometric ratios will be found.
